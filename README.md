@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 <div id="header" align="center">
     <img src=".github/cover.gif" alt="Hi there!">
 </div>
-=======
-
-
-
-https://github.com/JoeriHermans/JoeriHermans/assets/218636/310dee6f-0f9b-4b5f-b173-9539256db661
-
->>>>>>> 7d9446f64f0433d1a037c96cc1e2c584fec090ed
 
 <!--
 **JoeriHermans/JoeriHermans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
