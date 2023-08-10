@@ -1,6 +1,4 @@
-![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.mp4)
-![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.webm)
-![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.gif)
+![](https://private-user-images.githubusercontent.com/218636/259846303-b3e0f1d8-c9b7-4b5a-9569-5c615c1c8198.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTE2OTQxNjksIm5iZiI6MTY5MTY5Mzg2OSwicGF0aCI6Ii8yMTg2MzYvMjU5ODQ2MzAzLWIzZTBmMWQ4LWM5YjctNGI1YS05NTY5LTVjNjE1YzFjODE5OC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwODEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDgxMFQxODU3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZWM2NjEwZjJmN2M1MDhiOWNmY2NhMGYyOTcyOGZiM2NjMzNkNWI0MjA5YTQ1ZWE0NzJkNDA0MjQwOWI5NWY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rPfX4PKutLYS2Fqjk5-cxpl3g_cV90g3CeEzn0-oF9E)
 
 <!--
 **JoeriHermans/JoeriHermans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
