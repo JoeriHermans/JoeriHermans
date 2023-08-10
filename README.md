@@ -1,5 +1,6 @@
 ![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.mp4)
 ![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.webm)
+![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.gif)
 
 <!--
 **JoeriHermans/JoeriHermans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
