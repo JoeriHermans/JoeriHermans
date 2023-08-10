@@ -1,13 +1,5 @@
-
-
-
 https://github.com/JoeriHermans/JoeriHermans/assets/218636/b3e0f1d8-c9b7-4b5a-9569-5c615c1c8198
 
-
-
-![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.mp4)
-![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.webm)
-![](https://github.com/JoeriHermans/JoeriHermans/raw/master/.github/cover.gif)
 
 <!--
 **JoeriHermans/JoeriHermans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
